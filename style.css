@@ -116,7 +116,7 @@ body {
   text-transform: uppercase;
 }
 
-.date .circle {
+.circle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
